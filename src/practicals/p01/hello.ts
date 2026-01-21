@@ -1,2 +1,1 @@
-//let a:string = "Hello exam"
-console.log('"Hello exam"');
+console.log("Hello Exam");
