@@ -1,2 +1,3 @@
-// Write your code below
-console.log("A");
+function t(f:boolean){
+ a
+}
