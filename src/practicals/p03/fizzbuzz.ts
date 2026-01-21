@@ -2,7 +2,6 @@ import { exit } from "process";
 
 const n: number = parseInt(process.argv[2]);
 if(isNaN(n)|| n < 0 ||!Number(n)){
-    exit;
 }
 else{
     for(let i = 1;i<=n;i++){
