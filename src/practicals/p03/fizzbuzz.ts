@@ -1,6 +1,6 @@
 import { exit } from "process";
 
-const n: number = parseInt(process.argv[2]);
+const n:number = Number(process.argv[2]);
 if(isNaN(n)|| n < 0 ||!Number(n)){
 }
 else{
