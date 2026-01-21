@@ -1,3 +1,2 @@
-function t(f:boolean){
- a
-}
+let a = "exam"
+console.log("Hello",a);
