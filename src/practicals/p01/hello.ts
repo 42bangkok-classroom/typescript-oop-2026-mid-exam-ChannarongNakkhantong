@@ -1,2 +1,2 @@
 let a = "exam"
-console.log("Hello",a);
+console.log("A");
